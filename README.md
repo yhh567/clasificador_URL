@@ -24,9 +24,9 @@ Para poder ejecutar la aplicación web en local primero realizar un git clone de
 
 Después de clonar el repositorio abrir la carpeta del proyecto con cualquier editor de código por ejemplo VS Code.
 
-En la terminal del VS Code escribir: cd gui > streamlit run gui.py
+Para lanzar la aplicación web en la terminal del VS Code escribir: cd gui > streamlit run gui.py
 
 Para detener la aplicación web: ctrl + c
 
-Esto lanzará la aplicación web.
+Aplicación web
 ![image](https://github.com/user-attachments/assets/199ceb51-03e0-4f4f-a2e9-412fed15bb1e)
