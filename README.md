@@ -29,4 +29,5 @@ Para lanzar la aplicación web en la terminal del VS Code escribir: cd gui > str
 Para detener la aplicación web: ctrl + c
 
 Aplicación web
-![image](https://github.com/user-attachments/assets/199ceb51-03e0-4f4f-a2e9-412fed15bb1e)
+![imagen](https://github.com/user-attachments/assets/d96b91d2-702b-4ac6-bbc2-fdbeca1bfd37)
+
